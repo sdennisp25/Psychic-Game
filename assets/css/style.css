@@ -47,13 +47,11 @@ h2 {
 	height: 400px;
 	float: right;
 	box-sizing: border-box;
-	padding: 15px
-	
+	padding: 15px;
 }
 
-.stats {
-	border: 1.5px solid black;
+h4 {
 	box-sizing: border-box;
-	max-width: 100%;
-	padding: 10px;
+	float: right;
+	margin-top: 0;
 }
