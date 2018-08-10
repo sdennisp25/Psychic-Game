@@ -50,8 +50,12 @@ h2 {
 	padding: 15px;
 }
 
+
+h3 {
+display: inline;
+}
+
 h4 {
 	box-sizing: border-box;
-	float: right;
-	margin-top: 0;
+	display: inline;
 }
