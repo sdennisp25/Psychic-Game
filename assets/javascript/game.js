@@ -26,12 +26,13 @@ if (event.key === computerGuess) {
 }
 
 else {
-	//takes points away from your guesses
 	guessesLeft--;
-	document.getElementById("guesses").innerHTML = guessesLeft;
+	//takes points away from your guesses
+	document.getElementById("guesses").innerHTML = guessesLeft; 
 	console.log(guessesLeft);
 }
 
+//once your guesses run out, reset th game
 if (guessesLeft ===0){
 	document.getElementById("yourLosses").innerHTML = losses; losses++;
 	alert("YOU LOSE");
