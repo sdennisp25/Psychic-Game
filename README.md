@@ -1,13 +1,15 @@
 # Psychic-Game
 
+#### Welcome to my Psychic-Game! It is a really simple game. You, the user, will need to guess what letter the robot is thinking. Very easy. But here's the catch, you only have 10 guesses! As you win/lose, points will be added accordingly.
 
-computer picks a letter
-user picks a letter
-	user letter compared to computer letter
+## Programs
+* HTML/CSS
 
-if user = - - compare, user win
-	else 
-		guesses - 
-	guess again
+## Game Rules
+* 10 guesses (guess any letter)
+* Win/Lose, points will be added
 
-0 - you lose
+
+# Images of the Time-Train application
+![Alt text](/images/psychicWin.png)
+![Alt text](/images/psychicLose.png)
