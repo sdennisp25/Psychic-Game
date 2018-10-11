@@ -11,5 +11,5 @@
 
 
 # Images of the Time-Train application
-![Alt text](/images/psychicWin.png)
-![Alt text](/images/psychicLose.png)
+![Alt text](/assets/images/psychicWin.png)
+![Alt text](/assets/images/psychicLose.png)
